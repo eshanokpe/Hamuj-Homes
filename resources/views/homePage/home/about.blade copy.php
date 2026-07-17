@@ -240,7 +240,68 @@
     <!-- /.block-feature-sixteen -->
 
 
-  
+  <!--
+		=====================================================
+			Agent Section One
+		=====================================================
+		-->
+		<div class="agent-section-one position-relative z-1 mt-150 xl-mt-120">
+			<div class="container">
+				<div class="position-relative">
+					<div class="title-one mb-85 lg-mb-50 wow fadeInLeft">
+						<h3>Our <span>Agents<img src="{{asset('assets')}}/images/lazy.svg" data-src="{{asset('assets')}}/images/shape/title_shape_05.svg" alt="" class="lazy-img"></span></h3>
+						{{-- <p class="fs-22 mt-xs">Lorem  is placeholder text commonly used  graphic </p> --}}
+					</div>
+					<!-- /.title-one -->
+
+					<div class="wrapper position-relative z-1">
+						<div class="agent-slider-one">
+							<div class="item">
+								<div class="agent-card-one position-relative">
+									<div class="img border-20">
+										<img src="{{asset('assets')}}/images/agent/Babatunde-Toheeb.jpg" alt="" class="w-100 tran5s">
+									</div>
+									<div class="text-center">
+										<h6>Idowu Babatunde Toheeb</h6>
+										<a href="#" class="stretched-link">Chief Executive Officer</a>
+									</div>
+								</div>
+								<!-- /.agent-card-one -->
+							</div>
+							<div class="item">
+								<div class="agent-card-one position-relative">
+									<div class="img border-20">
+										<img src="{{asset('assets')}}/images/agent/hamuj_COO.jpg" alt="" class="w-100 tran5s">
+									</div>
+									<div class="text-center">
+										<h6>Olawale Daminola Emmanuel</h6>
+										<a href="#" class="stretched-link">Chief Operating Officer</a>
+									</div>
+								</div>
+								<!-- /.agent-card-one -->
+							</div>
+							<div class="item">
+								<div class="agent-card-one position-relative">
+									<div class="img border-20">
+										<img src="{{asset('assets')}}/images/agent/hamuj_MD.jpg" alt="" class="w-100 tran5s">
+									</div>
+									<div class="text-center">
+										<h6>Erohogo Petra Uchechukwu</h6>
+										<a href="#" class="stretched-link">Managing Director </a>
+									</div>
+									
+								</div>
+								<!-- /.agent-card-one -->
+							</div>
+						</div>
+					</div>
+					<!-- /.wrapper -->
+
+					
+				</div>
+			</div>
+		</div>
+		<!-- /.agent-section-one -->
 
 
 
