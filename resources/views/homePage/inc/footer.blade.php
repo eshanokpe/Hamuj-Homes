@@ -75,7 +75,7 @@
         <div class="bottom-footer">
             <div class="d-md-flex justify-content-center justify-content-md-between align-items-center">
                 <ul class="style-none bottom-nav d-flex justify-content-center">
-                    <li><a href="faq.html">Privacy &amp; Terms</a></li>
+                    <li><a href="#">Privacy &amp; Terms</a></li>
                     <li><a href="{{ route('home.contact')}}">Contact Us</a></li>
                 </ul>
                 <p class="mb-15 text-center text-lg-start fs-16 order-md-first">Copyright @2026 Hamuj Homes.</p>
